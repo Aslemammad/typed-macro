@@ -1,6 +1,6 @@
 {
   "name": "aslemammad-vite-plugin-macro",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0",
   "description": "",
   "license": "MIT",
   "repository": {
@@ -25,6 +25,6 @@
     "@typed-macro/shared": "1.0.0-alpha.1"
   },
   "peerDependencies": {
-    "vite": "^2.3.0"
+    "vite": "*"
   }
 }
